@@ -11,4 +11,4 @@ new theme is a script for dmenu which allows you to change your system color sch
 
 # Dependecies
 `yay -S python-pywal` or `paru -S python-pywal`
-`dmenu`
+and `dmenu`
