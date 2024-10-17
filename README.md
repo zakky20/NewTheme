@@ -10,5 +10,5 @@ new theme is a script for dmenu which allows you to change your system color sch
 6. `/home/youruser/Pictures/` if not you should make changes to the script!
 
 # Dependecies
-`yay -S python-pywal` or `paru -S python-pywal`
+`sudo pacman -S python-pywal`
 and `dmenu`
