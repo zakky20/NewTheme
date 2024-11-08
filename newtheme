@@ -1,9 +1,9 @@
 #!/bin/sh
 
-wall=$(find ~/Pictures/Wallpapers/ -type f -name "*.jpg" -o -name "*.png" | shuf -n 1)
+wall=$(find ~/pix/wall/ -type f -name "*.jpg" -o -name "*.png" | shuf -n 1)
 
 # set the wallpaper
-feh --bg-fill $wall
+xwallpaper --zoom $wall
 
 # generate the color scheme for the wallpaper
 wal -c
