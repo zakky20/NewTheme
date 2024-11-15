@@ -1,5 +1,5 @@
 # set_wallpaper
-new theme is a script for dmenu which allows you to change your system color scheme with the same colors as your wallpaper with pywal.
+set_wallpaper is a script for dmenu which allows you to change your system color scheme with the same colors as your wallpaper with pywal.
 
 # How To Install/Use
 1. download the script (newtheme)
